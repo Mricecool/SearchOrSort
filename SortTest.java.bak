@@ -1,7 +1,6 @@
 package com.maptools.controller;
 
 /**
- * 快速排序
  * Created by mr on 2017/9/4.
  */
 public class SortTest {
